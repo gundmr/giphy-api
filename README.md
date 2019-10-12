@@ -1,13 +1,13 @@
-# giphy-api_gundmr.github.io
-search through giphy api
+# Giphy API
+* Application searches through the 'Giphy API'
+* Application grabs 10 static, non-animated gif images from the GIPHY API and place them on the page.
+* When the user clicks one of the still GIPHY images, the gif will animate. If the user clicks the gif again, it should stop playing.
+* User can searh/add gif to page
 
-User is able to clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
-When the user clicks one of the still GIPHY images, the gif should animate. If the user clicks the gif again, it should stop playing.
+## Getting Started
+View applicaiton at:  https://gundmr.github.io/giphy-api/
 
-Under every gif, display its rating (PG, G, so on).
-
-This data is provided by the GIPHY API.
-
-
-User can add button to page by entering value into input box. 
-After button is added - can then look up/add 10 gifs for value. 
+## Built With
+* [Javascript](https://getbootstrap.com/) - Styling
+* [JQuery](https://getbootstrap.com/) - Styling
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The web framework
