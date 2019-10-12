@@ -8,6 +8,6 @@
 View applicaiton at:  https://gundmr.github.io/giphy-api/
 
 ## Built With
-* [Javascript](https://getbootstrap.com/) - Styling
-* [JQuery](https://getbootstrap.com/) - Styling
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The web framework
+* [Bootstrap](https://getbootstrap.com/) - The styling
+* [Javascript](https://www.javascript.com/) - The web framework
+* [JQuery](https://jquery.com/) - The web framework
